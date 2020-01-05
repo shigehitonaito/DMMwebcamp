@@ -66,3 +66,20 @@ main{
 .box-item:nth-child(2){
   margin:0 30px;
 }
+
+@media screen and (max-width:768px){
+
+  main{
+    width:100%;
+    margin:50px auto;
+  }
+  .box-item{
+    width:90%;
+    float:none;
+    margin: 0 auto 0 auto;
+  }
+
+  .box-item:nth-child(2){
+    margin:20px;
+  }
+}
