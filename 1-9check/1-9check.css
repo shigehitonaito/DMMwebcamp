@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+.position{
+  position: absolute;
+  right:40px;
+  top:100px;
+}
+
+i{
+  font-size:32px;
+}
