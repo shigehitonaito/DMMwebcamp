@@ -73,13 +73,29 @@ main{
     width:100%;
     margin:50px auto;
   }
+
+  .box-image-1{
+    width:100%
+  }
+
+  .box-image-2{
+    width:100%;
+  }
+
+  .box-image-3{
+    width:100%;
+  }
+
+
   .box-item{
     width:90%;
     float:none;
     margin: 0 auto 0 auto;
+    padding:10px;
   }
 
   .box-item:nth-child(2){
-    margin:20px;
+    margin:20px auto;
+
   }
 }
