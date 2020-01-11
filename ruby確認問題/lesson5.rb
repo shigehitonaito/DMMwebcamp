@@ -1,2 +1,2 @@
-name = "内藤慈人"
-puts name
+subject = ["国語", "算数" , "理科" , "社会"]
+puts subject[2]
